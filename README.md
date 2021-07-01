@@ -1,3 +1,8 @@
+
+适用于lede旁路由用户情况下的固件，仅添加科学上网插件与下载插件
+
+
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
